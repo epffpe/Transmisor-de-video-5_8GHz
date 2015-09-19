@@ -1,0 +1,3 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=L7805ABV New DesignItemId=L78M05ABV
+Change Component Footprint: Designator=U1 Old Footprint=TO220ABN New Footprint=TO220V
+Change Component Comment : Designator=U1 Old Comment=L7805ABV New Comment=L78M05ABV

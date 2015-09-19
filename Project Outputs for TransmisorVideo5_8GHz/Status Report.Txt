@@ -1,0 +1,17 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TransmisorVideo5_8GHz.PrjPcb]
+   Generated File[PCBCompartimentoVideo.GTL]
+   Generated File[PCBCompartimentoVideo.GBL]
+   Generated File[PCBCompartimentoVideo.GM1]
+   Generated File[PCBCompartimentoVideo.GM3]
+   Generated File[PCBCompartimentoVideo.GKO]
+   Generated File[PCBCompartimentoVideo.RUL]
+   Generated File[PCBCompartimentoVideo.EXTREP]
+   Generated File[PCBCompartimentoVideo.REP]
+
+
+Files Generated   : 8
+Documents Printed : 0
+
+Finished Output Generation At 9:06:56 On 17/12/2012

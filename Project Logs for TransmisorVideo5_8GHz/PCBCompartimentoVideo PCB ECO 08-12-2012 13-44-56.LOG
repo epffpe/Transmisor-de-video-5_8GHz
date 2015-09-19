@@ -1,0 +1,7 @@
+Added Component: Designator=P3(SMA-4HOLE)
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=GND Pin=P3-0
+Added Pin To Net: NetName=VIDEO Pin=P3-1
+Added Member To Class: ClassName=TransmisorVideo5_8GHz Member=Component P3 SMA2

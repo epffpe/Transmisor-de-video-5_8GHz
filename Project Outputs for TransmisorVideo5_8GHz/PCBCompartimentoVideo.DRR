@@ -1,0 +1,24 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCBCompartimentoVideo.PcbDoc   17/12/2012  9:06:15
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCBCompartimentoVideo.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        23.62mil (0.59995mm)     Round          9                0.63 Inch (16.00 mm)
+T2        28mil (0.7112mm)         Round          4                1.42 Inch (36.06 mm)
+T3        35.43mil (0.89992mm)     Round          14               1.92 Inch (48.71 mm)
+T4        43.31mil (1.10007mm)     Round          3                0.20 Inch (5.08 mm)
+T5        55.12mil (1.40005mm)     Round          1                0.00 Inch (0.00 mm)
+T6        78.74mil (2mm)           Round          3                1.18 Inch (29.91 mm)
+T7        102.36mil (2.59994mm)    Round          4                1.02 Inch (25.92 mm)
+T8        118.11mil (2.99999mm)    Round          6                9.70 Inch (246.48 mm)
+T9        125.98mil (3.19989mm)    Round          4                10.43 Inch (265.00 mm)
+T10       149.61mil (3.80009mm)    Round          1                0.00 Inch (0.00 mm)
+T11       255.91mil (6.50011mm)    Round          1                0.00 Inch (0.00 mm)
+---------------------------------------------------------------------------
+Totals                                            50               26.50 Inch (673.16 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
